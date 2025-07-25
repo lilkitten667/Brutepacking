@@ -5,7 +5,7 @@
 ## Author Cynthia Rattey
 ## written for SIM on forge
 
-#Print out:
+# Print out:
 
  Bygolly we are in luck! Password found: 
  unlocked with: SPONGEBOB
